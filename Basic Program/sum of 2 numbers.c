@@ -10,7 +10,7 @@
      
      Sum = No1 + No2;
      
-     printf("\n Subtraction of %d _ %d = %d.",No1, No2, Sum);
+     printf("\n Addition of %d _ %d = %d.",No1, No2, Sum);
      
      getch ();
      return 0;
