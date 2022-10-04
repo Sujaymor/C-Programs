@@ -4,7 +4,7 @@
 
 int main()
 {
-     int Arr[5] = { }, i = 0, Scnt = 0;
+     int Arr[5] = { }, i = 0, S_cnt = 0;
      
      for(i = 0; i < 5; i++)
      {
@@ -16,10 +16,10 @@ int main()
      {
        if(Arr[i]==7)
        {
-         Scnt++;
+         S_cnt++;
        }
      }
-     printf("\n Sevan Count in Given Element is %d",Scnt);
+     printf("\n Sevan Count in Given Element is %d",S_cnt);
      
      getch();
      return 0;
